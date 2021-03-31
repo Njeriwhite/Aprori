@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[164]:
-
 
 import pandas as pd
 from itertools import combinations 
@@ -119,15 +114,8 @@ for i in fre_pat:
                 print(j,' ---> ', z ,'   confidence = ',confidence)
 
 
-# In[162]:
 
 
-print(uni_items)
-
-
-# 
-
-# In[ ]:
 
 
 
